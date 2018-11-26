@@ -4,10 +4,6 @@
  * Student Name: Metehan Seyran
  * Student ID: 150170903
  * Date 08/11/2018
- * 
- * Note: The space character can be searched by typing " " or ' ' 
- * Note2: The \n characters are ignored and did not counter as Space character
- * Note3: Compiled and tested in Ubuntu Linux enviroment
  * */
 
 
